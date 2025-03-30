@@ -1,12 +1,8 @@
-<h1 align="center">Reservia · Ecosistema Open Source</h1>
+# Reservia · Ecosistema Open Source
 
-<p align="center">
-  ✨ Reservia ayuda a negocios como gimnasios, spas, clínicas y salones de belleza a recibir reservas online y automatizar sus citas sin depender de WhatsApp ni agendas físicas. ✨
-</p>
+✨ Reservia ayuda a negocios como gimnasios, spas, clínicas y salones de belleza a recibir reservas online y automatizar sus citas sin depender de WhatsApp ni agendas físicas. ✨
 
-<p align="center">
-  Este repositorio contiene librerías, utilidades y herramientas open source creadas como parte del ecosistema técnico de Reservia.
-</p>
+Este repositorio contiene librerías, utilidades y herramientas open source creadas como parte del ecosistema técnico de Reservia.
 
 ---
 
@@ -18,19 +14,19 @@
 
 ---
 
-## 📦 Librerías disponibles
+## 📆 Librerías disponibles
 
 Este repositorio actúa como un punto central para las herramientas open source que forman parte del ecosistema técnico de Reservia:
 
-| Paquete                          | Descripción                                                                 | Estado        |
-|----------------------------------|-----------------------------------------------------------------------------|---------------|
-| `@reservia/nestjs-culqui`        | Módulo para integrar Culqui como proveedor de pagos en apps con NestJS.     | 🛠️ En desarrollo |
-| `@reservia/utils`                | Utilidades comunes para fechas, validaciones, manejo de errores y más.     | 🧪 Próximamente |
-| `@reservia/notification-adapter`| Adaptadores para envío de notificaciones (correo, SMS, WhatsApp).          | 📬 Próximamente |
+| Paquete                           | Descripción                                                                 | Estado            |
+|-----------------------------------|------------------------------------------------------------------------------|-------------------|
+| `@reservia/nestjs-culqui`         | Módulo para integrar Culqui como proveedor de pagos en apps con NestJS.     | 🛠️ En desarrollo   |
+| `@reservia/utils`                 | Utilidades comunes para fechas, validaciones, manejo de errores y más.      | 🧪 Próximamente    |
+| `@reservia/notification-adapter` | Adaptadores para envío de notificaciones (correo, SMS, WhatsApp).           | 📬 Próximamente    |
 
 ---
 
-## 📥 Instalación
+## 📅 Instalación
 
 ```bash
 # Usando npm
@@ -38,3 +34,46 @@ npm install @reservia/nestjs-culqui
 
 # Usando yarn
 yarn add @reservia/nestjs-culqui
+```
+
+---
+
+## 🧐 Filosofía técnica
+
+- ✨ Simplicidad y claridad en la arquitectura
+- ♻️ Reusabilidad en cada componente
+- 💼 Foco en necesidades reales de negocios de servicios
+- 🧱 Modularidad y adaptabilidad
+
+---
+
+## 🤝 Cómo contribuir
+
+¿Tienes ideas, mejoras o quieres colaborar con el ecosistema Reservia? ¡Nos encantaría saber de ti!
+
+1. Haz un fork del repositorio.
+2. Crea una rama con tu feature o fix.
+3. Abre un Pull Request con una buena descripción.
+
+---
+
+## 🛡️ Licencia
+
+Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y compartirlo libremente.
+
+---
+
+## 💬 Sobre nosotros
+
+Reservia es una plataforma creada con pasión por desarrolladores que quieren facilitar la vida de miles de negocios en Latinoamérica.
+
+Síguenos o únete a la conversación:
+
+- Web oficial: [próximamente]
+- Twitter/X: [próximamente]
+- Blog técnico: [próximamente]
+
+---
+
+> “Haz software útil. Hazlo bien. Compártelo con el mundo.” – Reservia
+
